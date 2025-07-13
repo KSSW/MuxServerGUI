@@ -6,4 +6,4 @@ MuxServerHelper GUI version
 
 MuxServerHelper Original author：https://github.com/shimamura-hougetsu/MuxServerHelper
 
-XML Encryptor [Decryptor Tool](https://github.com/KSSW/DEXML.git)
+XML Encryptor [Decryptor Tool](https://gist.github.com/KSSW/b422eac268e96e3880a3431719af3d5a)
